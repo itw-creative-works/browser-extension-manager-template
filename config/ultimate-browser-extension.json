@@ -1,11 +1,9 @@
 {
-  app: {
-    id: 'ultimate-browser-extension',
-  },
   theme: {
     id: 'classy',
   },
   brand: {
+    id: 'ultimate-browser-extension',
     name: 'Ultimate Browser Extension',
     url: 'https://itwcreativeworks.com',
     contact: {
