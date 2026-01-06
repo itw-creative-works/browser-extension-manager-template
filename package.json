@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Browser extension template that builds for Chrome, Firefox, & Opera.",
   "scripts": {
-    "start": "npx bxm setup && npm start"
+    "start": "npm install && npx bxm setup && npm start"
   },
   "author": {
     "name": "ITW Creative Works",

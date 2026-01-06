@@ -33,7 +33,6 @@
 2. Clone the repo to your local machine.
 3. Run these command to get everything setup and sync'd!
 ```bash
-npm install
 npm start
 ```
 4. Open your browser and navigate to `chrome://extensions` (or the equivalent for your browser).
